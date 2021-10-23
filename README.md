@@ -6,4 +6,5 @@ You can contact me through email: pilot.motlaq@gmail.com
 
 ## General Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SMotlaq&show_icons=true&count_private=true&hide_rank=true&hide_border=true&include_all_commits=true&card_width=10)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SMotlaq&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="410" /></p>
