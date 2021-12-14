@@ -2,7 +2,7 @@
 
 My name is Salman. I'm a hardware and electronics engineer at BayanGroup. I'm also an electrical engineering student at Amirkabir University of Technology.
 
-Interested in high-speed PCB design, embeded systetms, and control systems.
+Interested in high-speed PCB design, embedded systetms, and control systems.
 
 You can contact me through email: pilot.motlaq@gmail.com
 
