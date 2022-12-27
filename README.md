@@ -1,6 +1,6 @@
 # Hi! 👋🏻
 
-My name is Salman. I'm a hardware and electronics engineer at BayanGroup. I'm also an electrical engineering student at Amirkabir University of Technology.
+My name is Salman. I'm a hardware and electronics engineer at BayanRayan. I'm also an electrical engineering graduated from Amirkabir University of Technology.
 
 Interested in high-speed PCB design, embedded systems, and control systems.
 
