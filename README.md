@@ -8,7 +8,10 @@ You can contact me through email: pilot.motlaq@gmail.com
 
 ## General Stats
 
-<p><center><img src="https://github-readme-stats.vercel.app/api?username=SMotlaq&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="352" /></center></p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SMotlaq&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="352" />
+</p>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark)](https://star-history.com/#SMotlaq/open-watch&SMotlaq/lora&Date)
