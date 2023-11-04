@@ -8,7 +8,7 @@ You can contact me through email: pilot.motlaq@gmail.com
 
 ## General Stats
 
-<div Style=“display:flex; justify-content:center; gap:2rem”>
+<div Style=“display:flex; justify-content:center; align-items:center; gap:2rem; Width:100%; margin:0 auto;”>
     <img src="https://github-readme-stats.vercel.app/api?username=SMotlaq&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="352" />
