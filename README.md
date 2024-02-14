@@ -14,4 +14,7 @@ You can contact me through email: pilot.motlaq@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="352" />
 </p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark)](https://star-history.com/#SMotlaq/open-watch&SMotlaq/lora&Date)
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark" />
+</p>
+
