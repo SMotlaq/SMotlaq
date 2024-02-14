@@ -1,10 +1,12 @@
 # Hi! 👋🏻
 
-My name is Salman. I'm a hardware and electronics engineer at BayanRayan. I'm also an electrical engineering graduated from Amirkabir University of Technology.
+Welcome to my GitHub Home Page!
 
-Interested in high-speed PCB design, embedded systems, and control systems.
+I'm Salman, a hardware and electronics engineer at Bayan, and I hold a degree in electrical engineering from Amirkabir University of Technology.
 
-You can contact me through email: pilot.motlaq@gmail.com
+I specialize in high-speed PCB design, embedded systems, control systems and electronics. Here you'll find my work, projects, and open-source contributions.
+
+Feel free to contact me at pilot.motlaq@gmail.com for questions, collaborations, or exciting opportunities. Let's connect, create, and innovate together!
 
 ## General Stats
 
