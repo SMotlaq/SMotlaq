@@ -19,7 +19,3 @@ Feel free to contact me at pilot.motlaq@gmail.com for questions, collaborations,
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smotlaq&style=for-the-badge" />
-</p>
