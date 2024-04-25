@@ -24,5 +24,5 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 </p>
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark" />
+  <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark" width="600"/>
 </p>
