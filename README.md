@@ -23,6 +23,49 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMotlaq&theme=dark&layout=compact" width="352" />
 </p>
 
+## Some of My Notable Repositories
+
+#### ⭐ Most Starred
+
+- [Ra-02 LoRa Module Library](https://github.com/smotlaq/LoRa)
+- [Opne-Watch Project](https://github.com/smotlaq/open-watch)
+
+#### ⚡ STM32 (HAL based) Libraries
+
+- [Ra-02 LoRa Module Library](https://github.com/smotlaq/LoRa)
+- [MCP4725 12-bit DAC](https://github.com/SMotlaq/mcp4725)
+- PI3EQX12908A2 PCIe Redriver
+
+#### ⚡ Arduino Libraries
+
+- [PI3EQX12908A2 PCIe Redriver](https://github.com/SMotlaq/PI3EQX12908-arduino)
+
+#### 🔧 PCB Design Assets
+
+- [Altium Library](https://github.com/SMotlaq/altium-library)
+- Schematic Templates
+- Draftsman Templates
+
+#### 📖 Academic Works
+
+- [B.Sc Thesis Text](https://github.com/SMotlaq/bsc-thesis)
+- [A 5-degree-of-freedom Hybrid Robot Manipulator](https://github.com/SMotlaq/HybridRobot-5DOF)
+- [Smart Parking](https://github.com/SMotlaq/instrumentation-final-project)
+- [AI Based Music Generator](https://github.com/SMotlaq/music-generator)
+
+#### 👨🏻‍💻 Personal Projects
+
+- [RC Model Airplane Telemetry](https://github.com/SMotlaq/rc-airplane-telemetry)
+- [Radiolink R9DS Telemetry Hack](https://github.com/SMotlaq/telemetry-hack)
+
+#### 👨🏻‍🏫 Code of The Courses That I Presented
+
+- [STM32 - Spring 2023](https://github.com/SMotlaq/stm32-course-spring-2023)
+- [Arduino - Summer 2022](https://github.com/SMotlaq/autrc-arduino-class)
+- [PID Implementation - Winter 2021](https://github.com/SMotlaq/simple-PID)
+
+## Star History
+
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark" width="600"/>
+  <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark">
 </p>
