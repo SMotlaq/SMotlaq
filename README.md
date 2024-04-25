@@ -55,6 +55,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 
 #### 👨🏻‍💻 Personal Projects
 
+- [Opne-Watch Project](https://github.com/smotlaq/open-watch)
 - [RC Model Airplane Telemetry](https://github.com/SMotlaq/rc-airplane-telemetry)
 - [Radiolink R9DS Telemetry Hack](https://github.com/SMotlaq/telemetry-hack)
 
