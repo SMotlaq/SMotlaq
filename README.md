@@ -44,7 +44,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 #### 🔧 PCB Design Assets
 
 - [Altium Library](https://github.com/SMotlaq/altium-library)
-- Schematic Templates
+- [Schematic Templates](https://github.com/SMotlaq/schematic-templates/tree/master)
 - Draftsman Templates
 
 #### 📖 Academic Works
