@@ -32,6 +32,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 
 #### ⚡ STM32 (HAL based) Libraries
 
+- [INA234 Power Monitor](https://github.com/SMotlaq/ina234)
 - [Ra-02 LoRa Module](https://github.com/smotlaq/LoRa)
 - [MCP4725 12-bit DAC](https://github.com/SMotlaq/mcp4725)
 - PI3EQX12908A2 PCIe Redriver
