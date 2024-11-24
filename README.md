@@ -36,7 +36,6 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 - [DS160PR810 PCIe 4.0 Redriver](https://github.com/SMotlaq/DS160PR810)
 - [Ra-02 LoRa Module](https://github.com/smotlaq/LoRa)
 - [MCP4725 12-bit DAC](https://github.com/SMotlaq/mcp4725)
-- MAX31865
 
 #### ⚡ Arduino Libraries
 
@@ -46,7 +45,6 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 
 - [Altium Library](https://github.com/SMotlaq/altium-library)
 - [Schematic Templates](https://github.com/SMotlaq/schematic-templates/tree/master)
-- Draftsman Templates
 
 #### 📖 Academic Works
 
@@ -58,6 +56,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 #### 👨🏻‍💻 Personal Projects
 
 - [Opne-Watch Project](https://github.com/smotlaq/open-watch)
+- [1 kilopixel Thermal Camera](https://github.com/SMotlaq/thermal-camera)
 - [RC Model Airplane Telemetry](https://github.com/SMotlaq/rc-airplane-telemetry)
 - [Radiolink R9DS Telemetry Hack](https://github.com/SMotlaq/telemetry-hack)
 
