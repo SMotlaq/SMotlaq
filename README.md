@@ -67,8 +67,10 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 - [Arduino - Summer 2022](https://github.com/SMotlaq/autrc-arduino-class)
 - [PID Implementation - Winter 2021](https://github.com/SMotlaq/simple-PID)
 
+<!---
 ## Star History
 
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=SMotlaq/LoRa,SMotlaq/open-watch&type=Date&theme=dark">
 </p>
+--->
