@@ -32,6 +32,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 
 #### ⚡ STM32 (HAL based) Libraries
 
+- [INA236 Power Monitor](https://github.com/SMotlaq/ina236)
 - [INA234 Power Monitor](https://github.com/SMotlaq/ina234)
 - [DS160PR810 PCIe 4.0 Redriver](https://github.com/SMotlaq/DS160PR810)
 - [Ra-02 LoRa Module](https://github.com/smotlaq/LoRa)
