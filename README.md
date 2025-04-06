@@ -32,7 +32,7 @@ Feel free to contact me for questions, collaborations, or exciting opportunities
 
 #### ⚡ STM32 (HAL based) Libraries
 
-- [TMP42x Local and remote Temperature Sensor](https://github.com/SMotlaq/tmp42x)
+- [TMP42x Local and Remote Temperature Sensor](https://github.com/SMotlaq/tmp42x)
 - [INA236 Power Monitor](https://github.com/SMotlaq/ina236)
 - [INA234 Power Monitor](https://github.com/SMotlaq/ina234)
 - [DS160PR810 PCIe 4.0 Redriver](https://github.com/SMotlaq/DS160PR810)
